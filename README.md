@@ -6,10 +6,10 @@ Identifies propernouns and important words, does a frequency analysis by splitti
 
 
 ```
-[Natural Language Toolkit](http://www.nltk.org/) - The natural language library used
-[urllib]
+nltk
+urllib
 ```
-
+* [Natural Language Toolkit](http://www.nltk.org/) - The natural language library used
 
 ## Built With
 
